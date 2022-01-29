@@ -1,1 +1,1 @@
-# MSGSU-Hesaplamal-matematik
+# MSGSU-Hesaplamalı-matematik
